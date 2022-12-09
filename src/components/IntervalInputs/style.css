@@ -1,0 +1,10 @@
+.container-interval-inputs {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+  margin-bottom: 15px;
+}
+
+.input {
+  width: 300px;
+}
